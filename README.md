@@ -32,5 +32,5 @@ then they are mandated to pick at least one special character
 
 The image below represent the webpage for the password generator.
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+![Alt text](pic1.png)
 
