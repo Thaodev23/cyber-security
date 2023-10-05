@@ -34,3 +34,20 @@ The image below represent the webpage for the password generator.
 
 ![Alt text](pic1.png)
 
+## Credits
+
+Below are links to codes that were used in the JavaScript code.
+```
+geeksforgeeks.org:
+https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/
+```
+```
+stackoverflow.com:
+https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+```
+## Collaborator
+
+```
+Jason Yang - classmate whom assited in the assignment.
+Github account - https://github.com/Jasony95
+```
